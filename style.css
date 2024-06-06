@@ -1,0 +1,74 @@
+/* Estilos de main */
+main{
+    height: 100vh;
+}
+
+/* Estilos para contenedor Principal del Form */
+
+.contenedorPrincipal {
+    width: 60%;
+    height: 90%;
+    background-color: #55C5D0;
+}
+
+/* Estilos para la Imagen */
+.contenedorImagen{
+    width: 80%;
+    height: 35%;
+}
+
+#logo{
+    width: 50%;
+}
+
+/* Estilos Titulo */
+.contenedorTitulo{
+    width: 80%;
+    height: 10%;
+    margin-bottom: 20px;
+}
+
+/* Estilos lineas de division y Form*/
+.lineaDivision{
+    width: 80%;
+    height: 1px;
+    background-color: #fff;
+}
+
+form{
+    width: 80%;
+    margin: 20px 0px;
+}
+
+/* Estilos elementos Form */
+label{
+    color: #000;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+input{
+    width: 100%;
+    height: 40px;
+    margin: 10px 0px;
+    padding-left: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+/* Estilos Boton */
+
+.contenedorBoton{
+    width: 80%;
+    margin: 20px 0px;
+}
+
+.btnIngresar{
+    width: auto;
+    height: 40px;
+    padding: 5px 20px ;
+    background-color: #337AB7;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+}
